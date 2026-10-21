@@ -65,4 +65,4 @@ Clash Meta(mihomo), Clash Verge, FlClash, Stash 등은 'Clash 구독' 버튼을 
 **QR 코드를 가족에게 보내도 되나요?** QR 코드에는 계정 인증 정보가 들어 있어서, 보낸 사람이 내 계정을 갖게 됩니다. 가족과 나눠 쓰는 것은 괜찮지만(동시 접속 기기는 요금제별로 개인 2대, 패밀리 4대, 기업 8대) 공개된 곳에 올리지는 마세요. 새었다면 비밀번호를 바꾸면 무효가 됩니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-02) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-02)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-02) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-02)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

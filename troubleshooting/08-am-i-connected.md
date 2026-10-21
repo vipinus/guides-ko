@@ -96,4 +96,4 @@ Cisco, Hiddify, 웹 프록시, OpenVPN 페이지에는 지역 국기 아래마�
 - [해외에서 텐센트 비디오에 저작권 제한 안내가 뜰 때](https://www.leotun.com/ko/guides/overseas-video?utm_source=github&utm_content=troubleshooting-08)
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

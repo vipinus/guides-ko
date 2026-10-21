@@ -38,4 +38,4 @@ Android와 iOS 클라이언트 모두 '앱별' 모드를 지원해서, WeChat과
 공식 계정이 열리지 않으면 '차단당했다'거나 '계정에 문제가 있다'고 생각해 삭제와 재설치를 거듭하는 분이 있습니다. 거의 그런 일은 아닙니다. IP를 바꾸면 같은 글이 바로 뜹니다. 확인하는 법은 간단합니다. 중국에 있는 친구에게 같은 링크를 열어 스크린숏을 보내 달라고 하세요. 친구는 보이는데 나는 안 보인다면 IP 문제입니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-13) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-13)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-13) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-13)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다

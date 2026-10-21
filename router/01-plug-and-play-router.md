@@ -20,4 +20,4 @@
 - **다른 공유기로 바꾸고 싶을 때**: 먼저 웹사이트에서 예전 공유기의 연동을 해제하세요. [MAC 연동과 공유기 교체](05-mac-binding-and-replacing.md)를 보세요.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-01) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-01)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-01) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-01)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다

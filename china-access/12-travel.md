@@ -29,7 +29,7 @@
 
 ## 자주 묻는 질문
 
-**며칠짜리 여행인데 한 달 치를 사야 하나요?** 아니요. 24시간 무료 체험을 받거나, 크레딧을 충전해 하루 단위로 내면 됩니다. 개인 요금제는 하루 1크레딧, 약 0.32달러라서 며칠짜리 일정에 잘 맞습니다.
+**며칠짜리 여행인데 한 달 치를 사야 하나요?** 아니요. 4시간 무료 체험을 받거나, 크레딧을 충전해 하루 단위로 내면 됩니다. 개인 요금제는 하루 1크레딧, 약 0.32달러라서 며칠짜리 일정에 잘 맞습니다.
 
 **휴대폰과 노트북을 동시에 연결할 수 있나요?** 네. 요금제에 따라 계정 하나로 2 / 4 / 8대(개인 / 패밀리 / 기업)가 동시에 접속할 수 있고, 개인 요금제는 딱 휴대폰 하나에 노트북 하나입니다.
 
@@ -47,4 +47,4 @@
 이 글의 웹사이트 버전: https://www.leotun.com/ko/guides/travel?utm_source=github&utm_content=china-access-12
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-12) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-12)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-12) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-12)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

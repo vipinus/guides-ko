@@ -54,4 +54,4 @@
 웹페이지에서 지금 몇 대가 접속해 있는지, 각각 어떤 종류인지 볼 수 있으니, 끄는 것을 잊은 기기가 있는지 확인할 수 있습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-07) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-07)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-07) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-07)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다

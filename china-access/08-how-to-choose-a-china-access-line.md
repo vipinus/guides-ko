@@ -26,7 +26,7 @@
 
 무료 '중국행' 브라우저 확장 프로그램에는 맹점이 하나 더 있습니다. 브라우저의 웹 요청만 프록시하고, 동영상 플레이어, 앱, 시스템 DNS는 거치지 않습니다. '웹페이지는 열리는데 동영상은 재생되지 않는' 일이 그토록 흔한 이유입니다.
 
-가끔 뭔가 찾아볼 정도라면 무료로도 충분합니다. 드라마를 챙겨 보고, 음악을 듣고, 인터넷 뱅킹을 쓴다면 안정적인 유료 회선이 아껴 주는 시간이 구독료보다 훨씬 값집니다. 먼저 24시간 체험을 받아 저녁 피크에 한 번 써 보고 결정하세요.
+가끔 뭔가 찾아볼 정도라면 무료로도 충분합니다. 드라마를 챙겨 보고, 음악을 듣고, 인터넷 뱅킹을 쓴다면 안정적인 유료 회선이 아껴 주는 시간이 구독료보다 훨씬 값집니다. 먼저 4시간 체험을 받아 저녁 피크에 한 번 써 보고 결정하세요.
 
 ## 유학생, 여행자, 가족은 각각 이렇게
 
@@ -53,4 +53,4 @@
 **Clash를 쓸 수 있나요?** 네. LeoTun은 sing-box 구독, Clash 구독, hysteria2 공유 링크를 제공합니다. Clash Meta, Clash Verge, FlClash, Stash 등에서는 'Clash 구독' 버튼을 눌러 URL을 클라이언트의 구독 목록에 붙여 넣으면 되고, 구독 변환기는 필요 없으며 공유 링크는 쓰지 마세요. 원조 Clash와 Clash for Windows는 코어에 hysteria2가 없어 쓸 수 없습니다. 이 구독은 기본적으로 로컬 네트워크를 뺀 모든 트래픽을 노드로 보내므로 중국 동영상을 위해 바꿀 것이 없습니다. 규칙을 직접 추가한다면 중국 도메인을 '직접 연결(direct)'로 두지 마세요.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

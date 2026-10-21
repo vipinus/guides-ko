@@ -8,7 +8,7 @@
 
 | 받는 법 | 받는 것 |
 |---|---|
-| 가입한 뒤 무료 체험 신청 | 모든 기능 24시간, 신용카드 필요 없음 |
+| 가입한 뒤 무료 체험 신청 | 모든 기능 4시간, 신용카드 필요 없음 |
 | 초대한 친구가 가입하고 처음 결제 | 나와 친구의 만료일이 각각 +20일(개인 요금제 기준. 패밀리는 +10일, 기업은 +5일로 각자의 요금제를 따름), 친구 한 명당 한 번, 친구 수 제한 없음 |
 
 웹사이트: <https://www.leotun.com/ko?utm_source=github&utm_content=readme> · 문의: <https://www.leotun.com/ko/contact?utm_source=github&utm_content=readme>

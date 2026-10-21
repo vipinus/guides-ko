@@ -35,4 +35,4 @@ LeoTun의 '사설망'이 바로 이런 사설망입니다. 한 계정으로 설�
 집 카메라의 영상은 내 기기와 집 사이에서만 오가야 합니다. 사설망 방식은 기기끼리 직접 연결하는 것을 우선하고, 직접 연결이 안 될 때만 중계를 거치며, 영상은 어떤 서버에도 저장되지 않습니다. 반면 제조사 클라우드 방식은 제조사를 거칩니다. 어느 경우든 출처가 불분명한 '터널링 도구'는 쓰지 마세요. 집 카메라를 남에게 넘겨주는 것과 같습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-07) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-07)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-07) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-07)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다

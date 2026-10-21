@@ -46,4 +46,4 @@
 대부분의 서비스는 공유기를 계정에 연동합니다(MAC 주소 기준). 계정 하나에 공유기 한 대가 연동되며, 공유기를 바꿀 때는 먼저 연동을 해제합니다. 그래서 계정은 나만 쓰게 됩니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-03) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-03)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-03) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-03)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

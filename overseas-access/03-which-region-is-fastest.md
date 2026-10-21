@@ -33,4 +33,4 @@ LeoTun의 지역 목록은 **빨강, 노랑, 초록 표시등**으로 지역별 
 4. 두 번 모두 나쁘지 않았던 곳을 기본으로, 다른 곳을 예비로 둡니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-03) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-03)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-03) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-03)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

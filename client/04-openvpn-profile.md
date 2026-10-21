@@ -43,4 +43,4 @@ OpenVPN은 오래된 오픈소스 프로토콜로, 거의 모든 운영 체제�
 프로필 파일에는 계정과 비밀번호가 들어 있어 계정 그 자체와 같으니 남에게 넘기지 마세요. 유출되었다면 웹사이트에서 비밀번호를 바꾸면 예전 파일은 즉시 쓸 수 없게 됩니다. 핸드셰이크 자체도 암호화되어 있어서, 프로필 안의 키가 없으면 핸드셰이크를 시작조차 할 수 없고 스캐너에는 서버가 보이지 않습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-04) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-04)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-04) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-04)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다

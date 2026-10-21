@@ -27,4 +27,4 @@
 - **중국 앱을 쓰는 동안 모든 것이 회선을 거칠 필요는 없습니다.** 분할 라우팅을 켜세요. 기본으로 차단된 사이트만 회선을 거치고, 중국 사이트와 중국에서도 원래 잘 열리는 해외 사이트는 직접 연결되어 어느 쪽도 돌아가지 않습니다. [공유기 분할 라우팅](../router/03-router-split-routing.md)을 보세요.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-01) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-01)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 24시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-01) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-01)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
