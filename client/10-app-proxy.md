@@ -52,4 +52,4 @@ Dropbox, Telegram Desktop, Steam, 클라우드 드라이브 클라이언트, 개
 **Hiddify 없이도 되나요?** 됩니다. Cisco, 사설망, OpenVPN도 컴퓨터 전체를 맡으며, 프로그램은 마찬가지로 '프록시 없음'으로 둡니다. Hiddify의 장점은 라우팅이 내장되어 있고 패킷 손실이 심한 네트워크에서 더 빠르다는 점입니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-10) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-10)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-10) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-10)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

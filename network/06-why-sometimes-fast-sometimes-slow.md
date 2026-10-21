@@ -43,4 +43,4 @@
 **가깝다고 빠른 것은 아닙니다.** 네트워크 트래픽은 지도상의 직선거리가 아니라 통신사 사이의 연결 경로를 따라갑니다. 돌아가는 길이 오히려 빠를 때도 있고, 같은 지역이 시간대에 따라 속도가 완전히 다를 때도 있습니다. 그래서 '어느 지역이 가장 빠른가'에는 정답이 없고, 직접 시험해 보는 수밖에 없습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=network-06) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=network-06)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=network-06) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=network-06)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

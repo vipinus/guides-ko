@@ -45,4 +45,4 @@ VPN 공유기를 직접 꾸려 본 사람이라면 이런 일을 겪어 봤을 �
 **구성 요소 업데이트 때문에 연결이 끊기나요?** 아니요. 업데이트는 부팅할 때 확인하고 내려받아 다음 부팅 때 적용됩니다. 쓰는 도중에 공유기가 갑자기 재시작하지 않습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-12) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-12)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-12) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-12)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

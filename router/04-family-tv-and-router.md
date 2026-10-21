@@ -29,4 +29,4 @@
 분할 라우팅 모드에서는 현지 은행 웹사이트, 현지 스트리밍 서비스, 프린터가 계속 직접 연결됩니다. 목록에 있는 중국 도메인만 중국행 회선을 거칩니다. Global(전체)보다 분할 라우팅을 권하는 이유도 이것입니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-04) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-04)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-04) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-04)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

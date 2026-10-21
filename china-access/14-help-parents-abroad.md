@@ -44,4 +44,4 @@
 해외에서도 원격으로 확인을 도와드릴 수 있습니다. 설정할 때 저희 연락처를 남겨 두고, 문제가 생기면 부모님께는 "이제 안 나와"라는 한 줄만 보내시게 하세요. 나머지는 자녀분이나 고객 지원이 알아서 하면 되고, 부모님이 기술적인 내용을 설명하실 필요는 없습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-14) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-14)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-14) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-14)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

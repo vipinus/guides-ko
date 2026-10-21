@@ -47,4 +47,4 @@
 도서관 데이터베이스 접속용으로 학생에게 교내 VPN을 주는 대학이 적지 않습니다. 이것은 여기서 다루는 것과는 다른 것이고, 둘은 충돌하지 않습니다. 교내 VPN은 '이 데이터베이스를 쓸 권한이 있는가'를 해결하지만, 먼저 대학 서버에 닿을 수 있어야 합니다. 둘을 겹쳐서 쓰면 됩니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-15) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-15)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-15) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-15)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

@@ -28,7 +28,7 @@ LeoTun 개인 요금제는 월 5달러이고, 지역 24곳, 동시 접속 2대, 
 
 월 단위로 사고 싶지 않다면 두 가지 길이 있습니다. 먼저 4시간 무료 체험(신용카드 필요 없음, 계정당 한 번)을 받아 저녁 피크 시간에 한 번 써 보거나, 일 단위로 결제하는 것입니다. 크레딧을 충전하면 개인 요금제는 하루 1크레딧이고 25크레딧이 8달러이니 하루 약 0.32달러입니다. 중국에 가기 전에 며칠 치만 사기에 잘 맞습니다.
 
-초대한 친구가 가입하고 처음 결제하면 나와 친구의 유효 기간이 각각 20일(개인 요금제 기준) 늘어나고, 인원 제한은 없습니다. 무료 기간을 오래 얻을 수 있는 방법입니다.
+초대한 친구가 가입하고 처음 결제하면 나와 친구가 각각 15크레딧(개인 요금제로 약 15일)을 받고, 인원 제한은 없습니다. 무료 기간을 오래 얻을 수 있는 방법입니다.
 
 ## 결제하기 전에 확인하는 법
 
@@ -60,4 +60,4 @@ LeoTun 개인 요금제는 월 5달러이고, 지역 24곳, 동시 접속 2대, 
 이 글의 웹사이트 버전: https://www.leotun.com/ko/guides/free-vs-paid?utm_source=github&utm_content=china-access-11
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-11) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-11)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-11) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-11)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

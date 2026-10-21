@@ -47,4 +47,4 @@ Google Scholar는 **요청 빈도**에 꽤 민감합니다. 스크립트로 대�
 정말 유럽이나 북미를 골라야 하는 경우는 일부 출판사가 접속 출처에 따라 지역 제한을 두거나, 기관 계정이 특정 지역에 묶여 있을 때입니다. 그런 일을 만나면 그때 바꾸세요.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

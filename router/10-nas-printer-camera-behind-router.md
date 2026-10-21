@@ -45,4 +45,4 @@ VPN 공유기를 들이면 가장 먼저 집 안의 다른 기기가 걱정됩�
 **기기 하나를 항상 VPN 밖에 둘 수 있나요?** 됩니다. 상위 공유기나 모뎀에 연결하세요. 관리 페이지에서 공유기 전체를 'Direct'(직접) 모드로 바꿀 수도 있지만, 그러면 모두에게 한꺼번에 적용됩니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-10) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-10)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-10) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-10)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

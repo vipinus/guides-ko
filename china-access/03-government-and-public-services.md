@@ -26,4 +26,4 @@
 행정 관련 일은 1년에 한두 번 생기는 경우가 많은데, 그때마다 급히 회선을 찾는 것은 꽤 번거롭습니다. 중국행 회선을 고정 입구 하나로 설정해 두고 일이 끝나면 다시 바꾸는 편이 매번 새로 설정하는 것보다 수고가 적습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-03) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-03)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-03) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-03)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

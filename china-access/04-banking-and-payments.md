@@ -27,4 +27,4 @@
 회선을 거치든 거치지 않든 공용 와이파이에서 은행 업무를 보지 마세요. 회선은 출구 IP를 바꿀 뿐 은행 너머까지 암호화해 주지는 않습니다. 보안은 은행 앱 자체의 암호화에서 나옵니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-04) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-04)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-04) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-04)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

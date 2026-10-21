@@ -15,4 +15,4 @@
 고객 지원에 네 가지를 알려 주세요. 보려는 웹사이트나 앱, 오류 문구 그대로, 현재 출구 IP의 위치, 사용하는 연결 방식. 이것만 있으면 한 번에 원인을 짚을 수 있습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-02) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-02)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-02) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-02)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

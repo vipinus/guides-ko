@@ -50,4 +50,4 @@ TV와 데스크톱은 될 수 있으면 유선으로 연결하세요. 세대가 
 **더 비싼 공유기를 사면 빨라지나요?** 공유기가 병목일 때만 그렇습니다. 예를 들어 빠른 회선에 미니 모델을 쓰는 경우입니다. 병목이 국경 간 구간이라면 새 공유기는 소용이 없고, 지역을 바꾸는 것이 답입니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-11) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-11)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=router-11) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=router-11)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

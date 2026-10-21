@@ -35,4 +35,4 @@ TV와 셋톱박스에는 클라이언트를 설치할 수 없으니 길은 두 �
 1080p는 5 Mbps 이상이 꾸준히 나와야 합니다. 저녁 피크 시간에 재생이 끊기면 초록 표시 지역을 고르거나 연결 방식을 바꾸세요. 그래도 끊기면 대개 현지 브로드밴드가 원인입니다. 플랫폼을 바꾸기보다 나와 가깝고 중국 본토로 가는 회선이 최적화된 진입 지점을 고르는 편이 효과가 좋습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-02) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-02)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-02) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-02)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다

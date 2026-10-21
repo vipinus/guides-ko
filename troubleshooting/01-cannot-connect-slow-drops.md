@@ -31,4 +31,4 @@
 위의 것을 모두 해 봤는데도 안 된다면, 고객 지원에 세 가지를 알려 주세요. 쓰는 연결 방식, 지역, 그리고 정확한 오류 문구나 스크린숏입니다. 이 세 가지가 있으면 대부분의 문제를 한 번에 짚어 낼 수 있습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-01) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-01)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 개인 요금제 20일을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-01) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-01)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 4시간 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다
