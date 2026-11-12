@@ -11,7 +11,7 @@
 
 ## 동시 접속 기기는 이렇게 셉니다
 
-계정은 기기 몇 대에든 설치할 수 있고, 제한되는 것은 동시에 접속하는 수뿐입니다. 개인 2대, 패밀리 4대, 기업 8대이며, Cisco, Hiddify 등 다른 방식과 한도 하나를 함께 씁니다. 요금제 한도를 넘으면 계정 유형을 잠시 올렸다가(남은 기간은 가격 기준으로 같은 가치로 환산) 끝나면 되돌리면 됩니다.
+계정은 기기 몇 대에든 설치할 수 있고, 제한되는 것은 동시에 접속하는 수뿐입니다. 베이직 2대, 스탠다드 4대, 프로 8대, 엘리트 16대, 엔터프라이즈 32대, 얼티밋 64대이며, Cisco, Hiddify 등 다른 방식과 한도 하나를 함께 씁니다. 요금제 한도를 넘으면 계정 유형을 잠시 올렸다가(남은 기간은 가격 기준으로 같은 가치로 환산) 끝나면 되돌리면 됩니다.
 
 공유기는 기기 1대로 세고, 그 뒤의 기기는 세지 않습니다. 집에 공유기나 NAS 한 대, 들고 다니는 휴대폰과 노트북이면 대개 충분합니다.
 
@@ -49,4 +49,4 @@
 이 글의 웹사이트 버전: https://www.leotun.com/ko/guides/multi-device?utm_source=github&utm_content=client-08
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=client-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=client-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(베이직 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

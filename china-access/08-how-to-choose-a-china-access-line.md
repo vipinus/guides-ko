@@ -48,9 +48,9 @@
 
 **홍콩 노드로 텐센트 비디오를 볼 수 있나요?** 아니요. 판권이 중국 본토에만 해당합니다.
 
-**계정 하나로 몇 대까지 되나요?** LeoTun은 요금제에 따라 동시 접속 수가 정해집니다. 개인 2대, 패밀리 4대, 기업 8대입니다. 공유기는 1대로 세고, 그 뒤의 기기는 따로 세지 않습니다. 동시에 접속한 기기가 요금제 한도보다 많으면 계정 유형을 잠시 올렸다가(남은 기간은 가격 기준으로 같은 가치로 환산) 나중에 되돌리면 됩니다.
+**계정 하나로 몇 대까지 되나요?** LeoTun은 요금제에 따라 동시 접속 수가 정해집니다. 베이직 2대, 스탠다드 4대, 프로 8대, 엘리트 16대, 엔터프라이즈 32대, 얼티밋 64대입니다. 공유기는 1대로 세고, 그 뒤의 기기는 따로 세지 않습니다. 동시에 접속한 기기가 요금제 한도보다 많으면 계정 유형을 잠시 올렸다가(남은 기간은 가격 기준으로 같은 가치로 환산) 나중에 되돌리면 됩니다.
 
 **Clash를 쓸 수 있나요?** 네. LeoTun은 sing-box 구독, Clash 구독, hysteria2 공유 링크를 제공합니다. Clash Meta, Clash Verge, FlClash, Stash 등에서는 'Clash 구독' 버튼을 눌러 URL을 클라이언트의 구독 목록에 붙여 넣으면 되고, 구독 변환기는 필요 없으며 공유 링크는 쓰지 마세요. 원조 Clash와 Clash for Windows는 코어에 hysteria2가 없어 쓸 수 없습니다. 이 구독은 기본적으로 로컬 네트워크를 뺀 모든 트래픽을 노드로 보내므로 중국 동영상을 위해 바꿀 것이 없습니다. 규칙을 직접 추가한다면 중국 도메인을 '직접 연결(direct)'로 두지 마세요.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=china-access-08) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=china-access-08)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(베이직 요금제로 약 15일)을 받으며 상시 진행하는 혜택입니다

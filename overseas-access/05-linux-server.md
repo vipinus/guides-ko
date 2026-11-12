@@ -34,7 +34,7 @@ Docker 데몬은 셸 환경 변수를 읽지 않습니다. /etc/systemd/system/d
 
 ## 알아 둘 점
 
-- Linux 머신 한 대는 기기 1대로 세며, 다른 기기와 동시 접속 한도를 나눠 씁니다(개인 2대, 패밀리 4대, 기업 8대). 방법 2의 웹 프록시도 연결 단위로 세어 포함됩니다.
+- Linux 머신 한 대는 기기 1대로 세며, 다른 기기와 동시 접속 한도를 나눠 씁니다(베이직 2대, 스탠다드 4대, 프로 8대, 엘리트 16대, 엔터프라이즈 32대, 얼티밋 64대). 방법 2의 웹 프록시도 연결 단위로 세어 포함됩니다.
 - 설정 파일과 비밀번호 파일은 계정과 같습니다. git 저장소에 커밋하거나 이미지에 넣지 마세요.
 - 비밀번호를 바꾸면 예전 설정은 즉시 쓸 수 없게 됩니다. 의도된 폐기 장치입니다. 비밀번호 파일만 고치면 됩니다.
 - 클라우드 서버에서 회선을 쓸 때는 해당 업체의 이용 약관을 따르세요. 회선은 접속 시간과 총 데이터량만 기록합니다.
@@ -59,4 +59,4 @@ Docker 데몬은 셸 환경 변수를 읽지 않습니다. /etc/systemd/system/d
 이 글의 웹사이트 버전: https://www.leotun.com/ko/guides/linux-server?utm_source=github&utm_content=overseas-access-05
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-05) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-05)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-05) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-05)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(베이직 요금제로 약 15일)을 받으며 장기간 유효합니다

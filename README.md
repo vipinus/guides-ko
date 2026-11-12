@@ -9,7 +9,7 @@
 | 받는 법 | 받는 것 |
 |---|---|
 | 가입한 뒤 무료 체험 신청 | 모든 기능 30분, 신용카드 필요 없음 |
-| 초대한 친구가 가입하고 처음 결제 | 나와 친구가 각각 15크레딧(개인 요금제는 하루 1크레딧이라 약 15일)을 크레딧 잔액으로 바로 받음, 친구 한 명당 한 번, 친구 수 제한 없음 |
+| 초대한 친구가 가입하고 처음 결제 | 나와 친구가 각각 15크레딧(베이직 요금제는 하루 1크레딧이라 약 15일)을 크레딧 잔액으로 바로 받음, 친구 한 명당 한 번, 친구 수 제한 없음 |
 
 웹사이트: <https://www.leotun.com/ko?utm_source=github&utm_content=readme> · 문의: <https://www.leotun.com/ko/contact?utm_source=github&utm_content=readme>
 
@@ -65,7 +65,7 @@
 | [05 · 위험한 VPN 소프트웨어 알아보는 법](network/05-risky-vpn-apps.md) |
 | [06 · 가끔 빠르고 가끔 느린 이유](network/06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · 회선이 해결하는 문제와 다른 방법이 필요한 문제](network/07-when-you-do-not-need-us.md) |
-| [08 · 세 가지 요금제 고르기, 연장과 결제](network/08-account-tiers-and-payment.md) |
+| [08 · 요금제 고르기, 연장과 결제](network/08-account-tiers-and-payment.md) |
 | [09 · 동시 접속 기기 수가 부족할 때](network/09-not-enough-devices.md) |
 
 ### [클라이언트 가이드 · 설치와 설정](client/)

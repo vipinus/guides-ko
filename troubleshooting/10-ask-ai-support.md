@@ -17,7 +17,7 @@ AI 고객 지원 '스폰지밥'(SpongeBob)은 Telegram, QQ, Discord의 세 그�
 |---|---|
 | 연결 안 돼요 | Windows 11, Cisco로 일본에 연결하는데 계속 돌다가 결국 연결 시간 초과라고 나옵니다. 한국도 마찬가지이고, 집 브로드밴드는 China Unicom입니다 |
 | 너무 느려요 | iPhone에서 Hiddify, 싱가포르 선택. 웹페이지는 열리는데 동영상이 계속 버퍼링되고, 밤 9시 이후에 특히 심합니다 |
-| 어떻게 해요 | 방금 패밀리 요금제를 샀는데 집의 Xiaomi TV에서도 쓰고 싶습니다. 방법이 있나요? |
+| 어떻게 해요 | 방금 스탠다드 요금제를 샀는데 집의 Xiaomi TV에서도 쓰고 싶습니다. 방법이 있나요? |
 | 연장, 지역 변경, 공유기를 한 메시지에 몰아서 질문 | 한 번에 하나씩 묻고, 해결되면 다음 것을 물으세요 |
 
 ## 세 그룹에서 답을 받는 법
@@ -51,4 +51,4 @@ VPN 연결 주소는 웹사이트에서 가져옵니다. 로그인한 뒤 해당
 - 고객 지원은 절대 개인 메시지로 비밀번호, 인증 코드, 결제를 요구하지 않으며, 먼저 원격 제어 소프트웨어를 설치하라고 하지도 않습니다.
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-10) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-10)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=troubleshooting-10) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=troubleshooting-10)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(베이직 요금제로 약 15일)을 받으며 장기간 유효합니다

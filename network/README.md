@@ -13,7 +13,7 @@
 | [05 · 위험한 VPN 소프트웨어 알아보는 법](05-risky-vpn-apps.md) |
 | [06 · 가끔 빠르고 가끔 느린 이유](06-why-sometimes-fast-sometimes-slow.md) |
 | [07 · 회선이 해결하는 문제와 다른 방법이 필요한 문제](07-when-you-do-not-need-us.md) |
-| [08 · 세 가지 요금제 고르기, 연장과 결제](08-account-tiers-and-payment.md) |
+| [08 · 요금제 고르기, 연장과 결제](08-account-tiers-and-payment.md) |
 | [09 · 동시 접속 기기 수가 부족할 때](09-not-enough-devices.md) |
 
 [← 목차로 돌아가기](../README.md)

@@ -31,7 +31,7 @@ NAS 자체를 회선으로 보내기(다운로드, 이미지 받기, 해외 클�
 
 - 설정 파일에는 계정 정보가 들어 있고, 비밀번호를 바꾸면 NAS의 비밀번호 칸은 더 이상 통하지 않습니다. .ovpn을 다시 받아 바꾸거나, VPN 프로필에서 비밀번호만 고치세요.
 - 계정이 만료되면 NAS의 연결이 끊기고, 연장하면 자동으로 다시 연결되며 설정을 바꿀 필요는 없습니다.
-- NAS는 기기 1대로 세고, 다른 기기와 동시 접속 한도를 함께 씁니다(개인 2대, 패밀리 4대, 기업 8대).
+- NAS는 기기 1대로 세고, 다른 기기와 동시 접속 한도를 함께 씁니다(베이직 2대, 스탠다드 4대, 프로 8대, 엘리트 16대, 엔터프라이즈 32대, 얼티밋 64대).
 - 회선은 UDP 위에서 돌아갑니다. 집 브로드밴드에 있는 NAS가 UDP 제한에 걸리는 일은 거의 없습니다.
 
 ## 자주 묻는 질문
@@ -54,4 +54,4 @@ NAS 자체를 회선으로 보내기(다운로드, 이미지 받기, 해외 클�
 이 글의 웹사이트 버전: https://www.leotun.com/ko/guides/nas-openvpn?utm_source=github&utm_content=overseas-access-06
 
 ---
-[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-06) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-06)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(개인 요금제로 약 15일)을 받으며 장기간 유효합니다
+[LeoTun](https://www.leotun.com/ko?utm_source=github&utm_content=overseas-access-06) 팀 작성 · 궁금한 점은 [문의 페이지](https://www.leotun.com/ko/contact?utm_source=github&utm_content=overseas-access-06)를 보세요(그룹, 이메일, 고객 지원이 모두 나와 있습니다) · 가입하면 30분 무료 체험, 초대한 친구가 결제하면 두 사람 모두 15크레딧(베이직 요금제로 약 15일)을 받으며 장기간 유효합니다
